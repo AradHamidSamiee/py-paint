@@ -1,6 +1,6 @@
 # py-paint
 ## *using opencv tools to imitate microsoft-paint*
-try this:
+if the file doesn't run on your system, try this:
 ```
 pip install opencv-python
 ```
